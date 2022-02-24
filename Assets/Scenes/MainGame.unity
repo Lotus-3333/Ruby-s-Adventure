@@ -433,6 +433,16 @@ PrefabInstance:
       propertyPath: horizontal
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3524069360305316973, guid: 7998f9d451453ef4f881c9226e89a470,
+        type: 3}
+      propertyPath: smokeEffect
+      value: 
+      objectReference: {fileID: 651618169}
+    - target: {fileID: 3524069360305316973, guid: 7998f9d451453ef4f881c9226e89a470,
+        type: 3}
+      propertyPath: fixedEffect
+      value: 
+      objectReference: {fileID: 1231095060}
     - target: {fileID: 3524069360305316974, guid: 7998f9d451453ef4f881c9226e89a470,
         type: 3}
       propertyPath: m_Name
