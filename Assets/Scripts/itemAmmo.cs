@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ItemHealth : MonoBehaviour
+public class itemAmmo : MonoBehaviour
 {
+    public int _ammoAmount = 5;
+
     public AudioClip collectedClip;
 
     /// <summary>
@@ -11,17 +13,17 @@ public class ItemHealth : MonoBehaviour
     /// object (2D physics only).
     /// </summary>
     /// <param name="other">The other Collider2D involved in this collision.</param>
-    private void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         PlayerController controller = other.GetComponent<PlayerController>();
 
         if (controller)
         {
-            if (controller.Health < controller._maxHealth)
+            if (controller.AmmoCount < controller._maxAmmoCount)
             {
                 controller.PlaySound(collectedClip);
-                
-                controller.ChangeHealth(1);
+
+                controller.ChangeAmmoAcount(_ammoAmount);
                 Destroy(gameObject);
             }
         }

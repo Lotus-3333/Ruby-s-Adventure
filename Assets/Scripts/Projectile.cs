@@ -6,12 +6,15 @@ public class Projectile : MonoBehaviour
 {
     private Rigidbody2D _rigidbody2D;
 
+    public AudioClip hitClip;
+
     /// <summary>
     /// Awake is called when the script instance is being loaded.
     /// </summary>
     void Awake()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
+        Destroy(this.gameObject, 1f);
     }
 
     public void Launch(Vector2 direction, float force)
@@ -32,6 +35,8 @@ public class Projectile : MonoBehaviour
         {
             enemyController.Fixed();
         }
+
+        enemyController.PlaySound(hitClip);
         
         Destroy(gameObject);
     }
