@@ -139,6 +139,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -269,6 +274,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &36794319 stripped
@@ -344,6 +354,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &36954737 stripped
@@ -363,6 +378,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -444,6 +464,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemAmmo (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
@@ -575,6 +600,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &114803260 stripped
@@ -624,6 +654,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -755,6 +790,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TelegraphPost
       objectReference: {fileID: 0}
+    - target: {fileID: 3636941932685300059, guid: 70b5f444cb0b4e4478733190d56a731f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70b5f444cb0b4e4478733190d56a731f, type: 3}
 --- !u!4 &120882446 stripped
@@ -774,6 +814,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 170622775565534548, guid: 46a3db9ec9f2378498a8aacdb0207f93,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 170622775565534553, guid: 46a3db9ec9f2378498a8aacdb0207f93,
         type: 3}
@@ -905,6 +950,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &133445819 stripped
@@ -979,6 +1029,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LotusFlower (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
@@ -1067,6 +1122,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &163917593 stripped
@@ -1142,6 +1202,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &180925244 stripped
@@ -1161,6 +1226,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -1237,6 +1307,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreeBig2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1305,6 +1380,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -1381,6 +1461,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1456,6 +1541,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: itemAmmo (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1530,6 +1620,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -1706,6 +1801,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &303753246 stripped
@@ -1725,6 +1825,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig2 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
@@ -1850,6 +1955,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &312423209 stripped
@@ -1936,6 +2046,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2011,6 +2126,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreeBig2 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2079,6 +2199,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -2210,6 +2335,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: itemHealth (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3492563420873072243, guid: 854fb8d0adb7def43bbfdd9f2794f48a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 854fb8d0adb7def43bbfdd9f2794f48a, type: 3}
 --- !u!4 &368400136 stripped
@@ -2229,6 +2359,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -2343,6 +2478,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 170622775565534548, guid: 46a3db9ec9f2378498a8aacdb0207f93,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 170622775565534553, guid: 46a3db9ec9f2378498a8aacdb0207f93,
         type: 3}
@@ -2507,6 +2647,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreeBig1
       objectReference: {fileID: 0}
+    - target: {fileID: 170622775565534548, guid: 46a3db9ec9f2378498a8aacdb0207f93,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 170622775565534553, guid: 46a3db9ec9f2378498a8aacdb0207f93,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2575,6 +2720,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Damageable (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314638974445252424, guid: 23bd5de813953684497675c216830922,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7314638974445252426, guid: 23bd5de813953684497675c216830922,
         type: 3}
@@ -2737,6 +2887,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreeBig2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2861,6 +3016,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &601377974 stripped
@@ -2880,6 +3040,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -2955,6 +3120,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -3141,6 +3311,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3215,6 +3390,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Damageable
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314638974445252424, guid: 23bd5de813953684497675c216830922,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7314638974445252426, guid: 23bd5de813953684497675c216830922,
         type: 3}
@@ -3326,6 +3506,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3400,6 +3585,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemAmmo (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
@@ -3476,6 +3666,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3550,6 +3745,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -3681,6 +3881,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &738762444 stripped
@@ -3700,6 +3905,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -3931,6 +4141,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &769721905 stripped
@@ -3950,6 +4165,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemAmmo (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
@@ -4081,6 +4301,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &795241169 stripped
@@ -4156,6 +4381,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &834729297 stripped
@@ -4175,6 +4405,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
@@ -4300,6 +4535,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &838901992 stripped
@@ -4374,6 +4614,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemHealth (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492563420873072243, guid: 854fb8d0adb7def43bbfdd9f2794f48a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 854fb8d0adb7def43bbfdd9f2794f48a, type: 3}
@@ -4725,6 +4970,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &931533552 stripped
@@ -4744,6 +4994,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemAmmo (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
@@ -4819,6 +5074,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 170622775565534548, guid: 46a3db9ec9f2378498a8aacdb0207f93,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 170622775565534553, guid: 46a3db9ec9f2378498a8aacdb0207f93,
         type: 3}
@@ -4944,6 +5204,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &964036599 stripped
@@ -4963,6 +5228,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -5038,6 +5308,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
@@ -5162,6 +5437,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemHealth (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492563420873072243, guid: 854fb8d0adb7def43bbfdd9f2794f48a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 854fb8d0adb7def43bbfdd9f2794f48a, type: 3}
@@ -5296,7 +5576,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1031815780
 PrefabInstance:
@@ -5364,6 +5644,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LotusFlower (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
@@ -5439,6 +5724,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LotusFlower (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
@@ -5534,6 +5824,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Damageable (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314638974445252424, guid: 23bd5de813953684497675c216830922,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7314638974445252426, guid: 23bd5de813953684497675c216830922,
         type: 3}
@@ -5718,6 +6013,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreeBig2
       objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5786,6 +6086,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -5935,6 +6240,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6065,6 +6375,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: itemHealth
       objectReference: {fileID: 0}
+    - target: {fileID: 3492563420873072243, guid: 854fb8d0adb7def43bbfdd9f2794f48a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 854fb8d0adb7def43bbfdd9f2794f48a, type: 3}
 --- !u!4 &1188803317 stripped
@@ -6139,6 +6454,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemHealth (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492563420873072243, guid: 854fb8d0adb7def43bbfdd9f2794f48a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 854fb8d0adb7def43bbfdd9f2794f48a, type: 3}
@@ -6215,6 +6535,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1217368094 stripped
@@ -6290,6 +6615,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: itemHealth (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3492563420873072243, guid: 854fb8d0adb7def43bbfdd9f2794f48a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 854fb8d0adb7def43bbfdd9f2794f48a, type: 3}
 --- !u!4 &1238825200 stripped
@@ -6315,6 +6645,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -6446,6 +6781,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1263086198 stripped
@@ -6520,6 +6860,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LotusFlower (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
@@ -6602,80 +6947,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1318662813}
   m_CullTransparentMesh: 0
---- !u!1 &1318958379
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1318958380}
-  - component: {fileID: 1318958382}
-  - component: {fileID: 1318958381}
-  m_Layer: 9
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1318958380
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1318958379}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1538720472}
-  m_Father: {fileID: 1415907375}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1318958381
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1318958379}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e19efba90db658c4980b2a4d32206764, type: 3}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1318958382
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1318958379}
-  m_CullTransparentMesh: 0
 --- !u!1001 &1352138795
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6687,6 +6958,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 170622775565534548, guid: 46a3db9ec9f2378498a8aacdb0207f93,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 170622775565534553, guid: 46a3db9ec9f2378498a8aacdb0207f93,
         type: 3}
@@ -6756,6 +7032,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Damageable (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314638974445252424, guid: 23bd5de813953684497675c216830922,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7314638974445252426, guid: 23bd5de813953684497675c216830922,
         type: 3}
@@ -6940,6 +7221,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: itemAmmo (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7070,6 +7356,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1399983723 stripped
@@ -7089,6 +7380,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -7220,6 +7516,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1407273255 stripped
@@ -7228,105 +7529,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1407273254}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1415907371
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1415907375}
-  - component: {fileID: 1415907374}
-  - component: {fileID: 1415907373}
-  - component: {fileID: 1415907372}
-  m_Layer: 9
-  m_Name: DialogBox
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1415907372
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1415907371}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
---- !u!114 &1415907373
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1415907371}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
-  m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
-  m_PhysicalUnit: 3
-  m_FallbackScreenDPI: 96
-  m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 1
---- !u!223 &1415907374
-Canvas:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1415907371}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_RenderMode: 2
-  m_Camera: {fileID: 0}
-  m_PlaneDistance: 100
-  m_PixelPerfect: 0
-  m_ReceivesEvents: 1
-  m_OverrideSorting: 0
-  m_OverridePixelPerfect: 0
-  m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: -1619480615
-  m_SortingOrder: 0
-  m_TargetDisplay: 0
---- !u!224 &1415907375
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1415907371}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
-  m_Children:
-  - {fileID: 1318958380}
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.01, y: 15.41}
-  m_SizeDelta: {x: 164.683, y: 109.789}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1419320033
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7338,6 +7540,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 170622775565534548, guid: 46a3db9ec9f2378498a8aacdb0207f93,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 170622775565534553, guid: 46a3db9ec9f2378498a8aacdb0207f93,
         type: 3}
@@ -7407,6 +7614,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemAmmo (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
@@ -7482,6 +7694,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -7613,6 +7830,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1514319556 stripped
@@ -7621,83 +7843,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1514319555}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1538720471
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1538720472}
-  - component: {fileID: 1538720474}
-  - component: {fileID: 1538720473}
-  m_Layer: 9
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1538720472
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1538720471}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1318958380}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000019073, y: -0.000030518}
-  m_SizeDelta: {x: 115.2, y: 27.8}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1538720473
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1538720471}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 24
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 2
-    m_MaxSize: 40
-    m_Alignment: 0
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: "\u6309E\u53EF\u8D5B\u8247"
---- !u!222 &1538720474
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1538720471}
-  m_CullTransparentMesh: 0
 --- !u!4 &1545456337 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
@@ -7715,6 +7860,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
@@ -7840,6 +7990,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1581804067 stripped
@@ -7920,6 +8075,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LotusFlower (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
@@ -8148,6 +8308,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1656462025 stripped
@@ -8167,6 +8332,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: itemAmmo
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
@@ -8439,6 +8609,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: itemHealth (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3492563420873072243, guid: 854fb8d0adb7def43bbfdd9f2794f48a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 854fb8d0adb7def43bbfdd9f2794f48a, type: 3}
 --- !u!4 &1703441222 stripped
@@ -8514,6 +8689,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: itemHealth (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3492563420873072243, guid: 854fb8d0adb7def43bbfdd9f2794f48a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 854fb8d0adb7def43bbfdd9f2794f48a, type: 3}
 --- !u!4 &1706884011 stripped
@@ -8533,6 +8713,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -8664,6 +8849,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TelegraphPost (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3636941932685300059, guid: 70b5f444cb0b4e4478733190d56a731f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70b5f444cb0b4e4478733190d56a731f, type: 3}
 --- !u!4 &1709974910 stripped
@@ -8683,6 +8873,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -8923,6 +9118,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1752973605 stripped
@@ -8997,6 +9197,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LotusFlower (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
@@ -9106,6 +9311,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9180,6 +9390,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: House
+      objectReference: {fileID: 0}
+    - target: {fileID: 7576625187401305697, guid: 890ad0fd1fa487c4aa9aee766dc8e756,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7576625187401305724, guid: 890ad0fd1fa487c4aa9aee766dc8e756,
         type: 3}
@@ -9305,6 +9520,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &1837461715 stripped
@@ -9324,6 +9544,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -9399,6 +9624,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Damageable (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314638974445252424, guid: 23bd5de813953684497675c216830922,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7314638974445252426, guid: 23bd5de813953684497675c216830922,
         type: 3}
@@ -9509,6 +9739,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Damageable (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314638974445252424, guid: 23bd5de813953684497675c216830922,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7314638974445252426, guid: 23bd5de813953684497675c216830922,
         type: 3}
@@ -9701,6 +9936,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushrooms (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9838,6 +10078,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: itemAmmo (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6654879421884728276, guid: d6df55aeffa1e144a96c259d55d3b697,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6654879421884728281, guid: d6df55aeffa1e144a96c259d55d3b697,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9919,7 +10164,7 @@ GameObject:
   - component: {fileID: 2069116245}
   - component: {fileID: 2069116244}
   - component: {fileID: 2069116243}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Bound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24409,6 +24654,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &2075554634 stripped
@@ -24483,6 +24733,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LotusFlower (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
@@ -24559,6 +24814,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &2096376825 stripped
@@ -24584,6 +24844,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mushrooms (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 69400861971776508, guid: bca2ff5972e9be74584b2c6cb1466483,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7648927295162308463, guid: bca2ff5972e9be74584b2c6cb1466483,
         type: 3}
@@ -24721,6 +24986,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LotusFlower (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 3589962462548119615, guid: 9a089dfbc966f43499c07486fb8c9f77,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a089dfbc966f43499c07486fb8c9f77, type: 3}
 --- !u!4 &2129625301 stripped
@@ -24740,7 +25010,7 @@ GameObject:
   - component: {fileID: 2138985214}
   - component: {fileID: 2138985216}
   - component: {fileID: 2138985215}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35372,6 +35642,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeBig2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544785934025927957, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5316247240730980769, guid: 3e4f4c4565f6c61438ada0a01eef55fb,
         type: 3}
